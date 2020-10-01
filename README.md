@@ -1,3 +1,6 @@
-Complete #NextLevelWeek2 project #Proffys
+# NextLevelWeek2
 
-Thank You RocketSeat and Proffy Mayk Brito
+Projeto Proffy desenvolvido durante a NextLevelWeek2 com professor Mayk Brito
+
+Complete #NextLevelWeek2 project Proffy
+
